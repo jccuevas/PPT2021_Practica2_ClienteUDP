@@ -2,7 +2,7 @@
  * Protocolos de Transporte
  * Grado en Ingeniería Telemática
  * Dpto. Ingeníería de Telecomunicación
- * Univerisdad de Jaén
+ * Universidad de Jaén
  *
  *******************************************************
  * Práctica 2.
